@@ -1,0 +1,8 @@
+
+First of all, I am sorry that I don't have an exe to run the game.
+I am still improving.
+
+1) Extract Zombjas
+2) Install Python 2.7.9
+3) Install Pygame 2.7.9
+4) Double-click "Zombjas(v0.88).py"
